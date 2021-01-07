@@ -1,2 +1,3 @@
-# viz-seaborn-exercise-titanic-todo
-Seaborn Titanic exercise
+## VISUALIZATION SEABORN EXERCISE
+
+Complete notebook exercises
